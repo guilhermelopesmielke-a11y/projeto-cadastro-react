@@ -59,10 +59,13 @@ Responsável por:
 ## 📷 Demonstração
 
 ### 📝 Tela de Cadastro de Usuários
-*(Adicionar imagem ou GIF aqui)*
+<img width="1920" height="1080" alt="Captura de tela 2026-02-04 181307" src="https://github.com/user-attachments/assets/34d6529d-3be6-4f13-ac5c-2e4a230d56cf" />
 
 ### 📋 Tela de Listagem de Usuários
-*(Adicionar imagem ou GIF aqui)*
+<img width="1920" height="1080" alt="Captura de tela 2026-02-04 181446" src="https://github.com/user-attachments/assets/5f352c04-1296-4513-a70c-d2acb7ad24a7" />
+
+### 📋 Tela do Banco de Dados dos Usuários
+<img width="1920" height="1020" alt="Captura de tela 2026-02-04 181737" src="https://github.com/user-attachments/assets/3cc033d2-f147-434a-9937-7cb40377caa3" />
 
 ---
 
