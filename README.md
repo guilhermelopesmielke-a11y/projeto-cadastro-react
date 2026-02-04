@@ -65,7 +65,7 @@ Responsável por:
 <img width="1920" height="1080" alt="Captura de tela 2026-02-04 181446" src="https://github.com/user-attachments/assets/5f352c04-1296-4513-a70c-d2acb7ad24a7" />
 
 ### 📋 Tela do Banco de Dados dos Usuários
-<img width="1920" height="1020" alt="Captura de tela 2026-02-04 181737" src="https://github.com/user-attachments/assets/3cc033d2-f147-434a-9937-7cb40377caa3" />
+<img width="1920" height="1080" alt="Captura de tela 2026-02-04 181438" src="https://github.com/user-attachments/assets/0cb41c06-e845-4dce-8cc5-2100f58657fe" />
 
 ---
 
